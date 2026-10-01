@@ -1,8 +1,3 @@
----
-
-#### 2. README for `python-fundamentals-and-logic`
-
-```markdown
 # Python Fundamentals and Logic Practice
 
 A structured repository of command-line tools, mini-games, and core data analysis exercises written while learning Python fundamentals, control flow, input handling, and standard libraries.
@@ -10,14 +5,14 @@ A structured repository of command-line tools, mini-games, and core data analysi
 ## Repository Structure
 
 ```text
-python-fundamentals-and-logic/
+PythonProjects/
 ├── cli_tools/
-│   └── voting_checker.py
-├── mini_games/
-│   ├── dice_simulator.py
-│   └── fun_quiz.py
+│   └── voting_eligibility_checker.py
 ├── data_and_math/
 │   ├── basic_plotting.py
 │   ├── numpy_indexing.py
 │   └── numpy_vectorization.py
+├── mini_games/
+│   ├── Dice_Simulator.py
+│   └── fun_quiz.py
 └── README.md
